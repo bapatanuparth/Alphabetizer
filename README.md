@@ -1,4 +1,6 @@
 # Alphabetizer
+Alphabetizer is a program to read in series of strings through CLI and return the output strings with the characters in alphabetical order.
+Below are the details to set up and run the code on Unix environment.
 
 # How to run Alphabetizer
 
